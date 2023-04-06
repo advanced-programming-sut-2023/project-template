@@ -1,7 +1,7 @@
 ---
-name: تمپلیت فاز صفر
-about: برای ساخت ایشوی فاز صفر از این تمپلیت استفاده کنید
-title: Phase 0 Report
+name: تمپلیت فاز یک
+about: برای ساخت ایشوی فاز یک از این تمپلیت استفاده کنید
+title: Phase 1 Report
 labels: progress
 assignees: Arman17Babaei
 
